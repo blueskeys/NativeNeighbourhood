@@ -1,7 +1,7 @@
 Release Checklist
 -----------------
 
-1. Update version number 
+1. Update version number
    a) in build.properties
    b) in META-INF/plugin.xml
 2. Provide Changes in Release Notes
@@ -17,3 +17,6 @@ Release Checklist
 9. Upload build (NativeNeighbourhood-x.y.z.zip)
    a) to Google Code Site (http://code.google.com/p/nativeneighbourhood/downloads/list)
    b) to JetBrains Plugin Repository (http://plugins.intellij.net/plugin/?id=38)
+
+2021年3月10日
+兼容idea2020.3.2版本
